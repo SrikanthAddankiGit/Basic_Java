@@ -9,7 +9,7 @@ public class NonRepeatedCharString {
 	public static void main(String[] args) {
 		
 		char c = getFirstNonRepeatedChar("aabbddef");
-		System.out.println("NOn repeated  character: "+c);
+		System.out.println("Non repeated  character: "+c);
 		
 	}
 
